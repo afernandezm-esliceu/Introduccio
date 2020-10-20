@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto 0 auto;
+
+}
+
+#esquerradalt {
+    border: hidden;
+}
+
+#enmigadalt {
+    border-top: hidden;
+    border-bottom: hidden;
+    border-color: black;
+}
+
+#dretaadalt {
+    border: hidden;
+}
+
+#enmigesquerra {
+    border-left: hidden;
+    border-right: hidden;
+    border-color: black;
+}
+
+#enmigenmig {
+    border-color: black;
+}
+
+#enmigdreta {
+    border-right: hidden;
+    border-left: hidden;
+    border-color: black;
+}
+
+#baixesquerra {
+    border: hidden;
+}
+
+#baixenmig {
+    border-bottom: hidden;
+    border-top: hidden;
+    border-color: black;
+}
+
+#baixdreta {
+    border: hidden;
+}
